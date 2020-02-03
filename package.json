@@ -1,0 +1,9 @@
+{
+  "name": "id-generator-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@pcwitcher/id-generator": "1.0.1"
+  }
+}
